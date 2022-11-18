@@ -1,0 +1,29 @@
+:root {
+    --text-color: rgba(0, 0, 0, 0.9);
+    --secondary-color: #ea1d62;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: inter;
+}
+
+/* 
+.bg-primary {
+    background-color: var(--primary-color);
+}
+
+.bg-secondary {
+    background-color: var(--sekondary-color);
+} */
